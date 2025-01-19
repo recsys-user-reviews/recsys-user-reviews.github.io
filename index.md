@@ -2,9 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**tldr:** We are trying to build a recommendation system using deep learning on amazon user reviews dataset!
 
-[Link to another page](./another-page.html).
+## Why Recommendation Systems?
+They are ubiquitous. Online retailers like Amazon, social media sites like Reddit, Instagram, and content discovery platforms like Google News depend on recommendation systems to provide personalized suggestions to their users. For instance, Amazon uses recommendation systems to suggest products based on a user's past purchases, searches, or even products viewed by other users with similar preferences.
+
+These systems help businesses handle the information overload that users face, presenting them with the most relevant and personalized content or products. As catalogs expand on platforms, it becomes increasingly challenging for users to make informed choices without assistance. Recommendation systems solve this by tailoring options, making it easier to discover what they may like or need.
+
+Our goal is to harness deep learning techniques, which have shown great potential in recommendation systems by capturing complex patterns in user behavior and product features. With Amazon’s user reviews dataset, we can better understand customer sentiments and improve the recommendation accuracy, offering a more refined and personalized experience for every user.
+
+## _Work in progress! Stay Tuned_ 
+
+👋 [About Us](./another-page.html)
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
@@ -120,4 +131,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->

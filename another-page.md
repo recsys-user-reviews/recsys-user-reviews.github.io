@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About Us
+description:
 ---
 
-## Welcome to another page
+## Team
 
-_yay_
+**[Vivek R](https://www.linkedin.com/in/vivekr98/)** - hello! if you are looking for a full stack data scientist who can solve your problems using data, look no further!
+<!-- I have previously worked with Fortune 500 companies and with startups in different data roles. I enjoy writing and debugging code in general.  -->
 
-[back](./)
+[home](./)
